@@ -9,7 +9,7 @@
   },
   {
     "uuid": "09a88cbe-69a3-46da-a51e-5bacfe1a2b98",
-    "url": "https://github.com/HuddleX/Seyfert/raw/main/capes/discord.png"
+    "url": "https://github.com/HuddleX/Seyfert/raw/main/capes/2013.png"
   },
   {
     "uuid": "c22fe9e8-a142-4e22-b378-0c1c31becd21",
@@ -22,6 +22,9 @@
   {
     "uuid": "fd67bd34-d836-45b0-bc21-600d981b8626",
     "url": "https://github.com/HuddleX/Seyfert/raw/main/capes/Xmas.png"
-
+  },
+  {
+    "uuid": "f00989c0-02b3-408b-9810-431c4bd7c5ed",
+    "url": "https://github.com/HuddleX/Seyfert/raw/main/capes/Galaxy.png"
   }
 ]
