@@ -8,4 +8,5 @@ The Donators.json file doesn't include donators! it includes people with capes!
 You can request a cape <a href="https://bit.ly/375qeLn" target="_blank">here</a>.  
 
 ## Support  
-Dm Huddle#1234 on discord
+join the discord
+[![Discord Mine](https://discord.io/Seyfert/qr)](https://discord.io/Seyfert)
