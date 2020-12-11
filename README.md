@@ -8,5 +8,5 @@ The Donators.json file doesn't include donators! it includes people with capes!
 You can request a cape <a href="https://bit.ly/375qeLn" target="_blank">here</a>.  
 
 ## Support  
-join the discord
+join the discord by clicking or scanning the qr code below  
 [![Discord Mine](https://discord.io/Seyfert/qr)](https://discord.io/Seyfert)
