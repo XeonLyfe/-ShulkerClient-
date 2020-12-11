@@ -10,4 +10,3 @@ You can request a cape <a href="https://bit.ly/375qeLn" target="_blank">here</a>
 
 ## Support  
 Join the discord for 24 hour support!  
-https://discord.io/Seyfert
