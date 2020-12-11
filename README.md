@@ -3,5 +3,5 @@
 A Minecraft client for anarchy servers like 2b2t. Its not an open source :(  
   
 ## Capes  
-The Donators.json file doesn't include donators! it includes people with capes!
+The Donators.json file doesn't include donators! it includes people with capes!  
 You can request a cape <a href="https://bit.ly/375qeLn" target="_blank">here</a>.  
