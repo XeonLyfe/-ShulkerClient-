@@ -1,3 +1,4 @@
+[![Paypal](https://img.shields.io/badge/paypal-donate-red?color=169bd7&logo=paypal)](https://paypal.me/DonateHuddle)
 # Seyfert
 A Minecraft client for anarchy servers like 2b2t. Its not an open source :(  
   
