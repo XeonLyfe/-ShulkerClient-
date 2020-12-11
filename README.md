@@ -9,6 +9,5 @@ The Donators.json file doesn't include donators! it includes people with capes!
 You can request a cape <a href="https://bit.ly/375qeLn" target="_blank">here</a>.  
 
 ## Support  
-In the discord you can get 24 hour support!  
-Join the discord by clicking or scanning the qr code below  
-[![Discord Mine](https://discord.io/Seyfert/qr)](https://discord.io/Seyfert)
+Join the discord for 24 hour support!
+[![Discord Mine](https://img.shields.io/badge/Discord-Join-blueviolet?color=blueviolet&logo=discord)](https://bit.ly/3oBB0Po)  
