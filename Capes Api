@@ -6,8 +6,8 @@
         "cape_uuid": "fa95c",
         "type": "DONOR",
         "color": {
-          "primary": "9b90ff",
-          "border": "8778ff"
+          "primary": "FF90E9",
+          "border": "FF7878"
         }
       }
     ],
@@ -21,8 +21,8 @@
         "player_uuid": "2f2a41b6-778e-49dc-a4d7-f7e01bb18fa8",
         "type": "DONOR",
         "color": {
-          "primary": "9b90ff",
-          "border": "8778ff"
+          "primary": "FF90E9",
+          "border": "FF7878"
         }
       }
     ],
