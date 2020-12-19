@@ -28,4 +28,33 @@
     ],
     "is_premium": true
   }
+  {
+    "id": 583478940459466783,
+    "capes": [
+      {
+        "cape_uuid": "fa95c",
+        "type": "DONOR",
+        "color": {
+          "primary": "FF90E9",
+          "border": "FF7878"
+        }
+      }
+    ],
+    "is_premium": true
+  },
+  {
+    "id": 209554152584380420,
+    "capes": [
+      {
+        "cape_uuid": "4f37f",
+        "player_uuid": "2f2a41b6-778e-49dc-a4d7-f7e01bb18fa8",
+        "type": "DONOR",
+        "color": {
+          "primary": "FF90E9",
+          "border": "FF7878"
+        }
+      }
+    ],
+    "is_premium": true
+  }
 ]
