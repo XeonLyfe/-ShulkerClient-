@@ -50,8 +50,8 @@
         "player_uuid": "2f2a41b6-778e-49dc-a4d7-f7e01bb18fa8",
         "type": "DONOR",
         "color": {
-          "primary": "FF90E9",
-          "border": "FF7878"
+          "primary": "ffffff",
+          "border": "333333"
         }
       }
     ],
