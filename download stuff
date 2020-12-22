@@ -1,10 +1,10 @@
 {
   "stable": {
     "name": "v1.0.01",
-    "url": "https://github.com/XeonLyfe/ShulkerClient-Source/releases/download/0.0.0/Source-1.12.xx-dev.jar"
+    "url": "shulker.fun/Releases/ShulkerClient.jar"
   },
   "beta": {
-    "name": "v1.0.01",
-    "url": "https://github.com/XeonLyfe/ShulkerClient-Source/releases/download/0.0.0/Source-1.12.xx-dev.jar"
+    "name": "v1.0.03",
+    "url": "shulker.fun/Releases/ShulkerClient.jar"
   }
 }
