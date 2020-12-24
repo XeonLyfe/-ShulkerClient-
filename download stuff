@@ -1,10 +1,10 @@
 {
   "stable": {
-    "name": "v1.0.03",
+    "name": "v1.0.04",
     "url": "shulker.fun/Releases/ShulkerClient.jar"
   },
   "beta": {
-    "name": "v1.0.03",
+    "name": "v1.0.04",
     "url": "shulker.fun/Releases/ShulkerClient.jar"
   }
 }
